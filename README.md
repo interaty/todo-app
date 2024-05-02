@@ -7,7 +7,7 @@
 <h3 align="center">TODO App</h3>
 
   <p align="center">
-   
+   This is the project TODO list app from The Odin Project, Javascript. 
     <br />
     <a href="https://github.com/interaty/todo-app"><strong>Explore the docs »</strong></a>
     <br />
@@ -15,6 +15,7 @@
     <a href="https://amazing-sable-832e12.netlify.app/">View Demo</a>
   </p>
 </div>
+
 
 <!-- ABOUT THE PROJECT -->
 
